@@ -32,7 +32,8 @@ blockquote {
      font-variant: normal;
      font-weight: 100;
      line-height: 20px;
-     background-color: beige;
+     bockground-color: beige;
+}
 }
 pre { 
      font-family: monospace;
@@ -47,5 +48,5 @@ body {
      background-color: lightyellow;
 }
 html {
-     background-color: brown;
+     background-image: linear-gradient(to right, yellow , goldenrod);
 }
