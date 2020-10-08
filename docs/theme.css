@@ -5,6 +5,7 @@ h1 {
      font-variant: normal; 
      font-weight: bold; 
      line-height: 34px; 
+     background-color: goldenrod;
 } 
 h3 { 
      font-family: monospace; 
@@ -13,6 +14,7 @@ h3 {
      font-variant: small-caps; 
      font-weight: bold; 
      line-height: 40px;
+     background-color: orange;
 } 
 p {  
      font-family: monospace; 
@@ -21,6 +23,7 @@ p {
      font-variant: normal; 
      font-weight: 400; 
      line-height: 24px; 
+     background-color: yellow;
 }
 blockquote {
      font-family: monospace;
@@ -29,6 +32,7 @@ blockquote {
      font-variant: normal;
      font-weight: 100;
      line-height: 20px;
+     background-color: gold;
 }
 pre { 
      font-family: monospace;
@@ -37,5 +41,5 @@ pre {
      font-variant: normal;
      font-weight: 400;
      line-height: 24px; 
+     background-color: darkorange;
 }
-background-color: goldenrod;
