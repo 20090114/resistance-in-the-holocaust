@@ -72,7 +72,7 @@ blockquote {
      line-height: 20px;
      bockground-color: beige;
 }
-}
+
 pre { 
      font-family: monospace;
      font-size: 12px;
@@ -82,9 +82,11 @@ pre {
      line-height: 24px; 
      background-color: darkorange;
 }
+
 body {
      background-color: lightyellow;
 }
+
 html {
      background-image: linear-gradient(to right, yellow , goldenrod);
 }
