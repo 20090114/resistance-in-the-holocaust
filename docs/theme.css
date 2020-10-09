@@ -9,6 +9,7 @@ ol {
 li {
   list-style-type: none;
   float: left;
+  background-color: darkorange;
 }
 
 li a {
@@ -23,7 +24,6 @@ li a {
   background-color: orange;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: orange;
 }
