@@ -4,26 +4,20 @@ ol {
   padding: 0;
   overflow: hidden;
   background-color: darkorange;
-}
-
-li {
-  border-right: 1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
-}
-
-  ol {
   postion: fixed;
   top: 0;
   width: 100%;
 }
 
-li 
+li {
+  border-right: 1px solid maroon;
   list-style-type: none;
   float: left;
   background-color: darkorange;
+}
+
+li:last-child {
+  border-right: none;
 }
 
 li a {
